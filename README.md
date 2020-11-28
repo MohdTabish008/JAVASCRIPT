@@ -12,3 +12,6 @@ The concept of Functions,Arrays & Objects(hash-maps) has further been explored.B
 
 Commit-3
 The interaction of js with html is further explored with The Document Object Model (DOM).It is a programming interface for HTML and XML documents. It represents the page so that programs can change the document structure, style, and content.The DOM is an object-oriented representation of the web page, which can be modified with a scripting language such as JavaScript.The interaction of DOM with htl elements has been implied.Event listeners have also been applied along with document.qyerySelector() type of methods to target elements of HTML.A basic project of tictactoe has been developed.Though not in accordance with concrete logic.But,basic ilustration of how front end works with HTML,CSS & JS.
+
+Commit-4
+The role & power of JQuery in interacting with DOM model has been understood.As a sign of to this javascript repository I am working on my final project named as 'Connect 4' game which is going to include all my exhaustive knowledge of Front-End combining HTML CSS & JAVA SCRIPT.
