@@ -15,3 +15,6 @@ The interaction of js with html is further explored with The Document Object Mod
 
 Commit-4
 The role & power of JQuery in interacting with DOM model has been understood.As a sign off to this javascript repository I am working on my final project named as 'Connect 4' game which is going to include all my exhaustive knowledge of Front-End combining HTML CSS & JAVA SCRIPT.
+
+Commit-5
+Diving deep into the concepts of javascript.I have added my solutions to the 10 days of javascript challenge from hackerrank.
