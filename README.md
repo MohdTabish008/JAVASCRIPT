@@ -19,5 +19,5 @@ The role & power of JQuery in interacting with DOM model has been understood.As 
 Commit-5
 Diving deep into the concepts of javascript.I have added my solutions to the 10 days of javascript challenge from Hackerrank.
 
-Added query selectors in the Blog Project.JavaScript Object Notation JSON parsing
+Added query selectors in the Blog Project.JavaScript Object Notation JSON parsing is a very useful fuction to use data across multiple languages
 
