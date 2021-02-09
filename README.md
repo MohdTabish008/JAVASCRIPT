@@ -5,7 +5,7 @@ Basic programs are written in console of chrome browser.Such as how to make a po
 
 Commit-1
 The basic control flow process along with iterative control flow statements have been added which include if, else-if, else statements combined with while loops.
-In this project file there is a comprehensive application of all the concepts I have learned so far.
+In this project file there is a comprehensive applications of all the concepts I have learned so far.
 
 Commit-2
 The concept of Functions,Arrays and Objects(hash-maps) has further been explored.Basic knowledge with their syntax along with the application of some basic exercises have been added.
