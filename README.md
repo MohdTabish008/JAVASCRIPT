@@ -8,7 +8,7 @@ The basic control flow process along with iterative control flow statements have
 In this project file there is a comprehensive applications of all the concept I have learned so far.
 
 Commit-2
-The concept of Functions,Arrays and Objects(hash-maps) has further been explored.Basic knowledge with their syntax along with the application of some basic exercises have been added.
+The concept of Functions,Arrays and Objects(hash-maps) has further been explored.Basic knowledge with their syntax along with the applications of some basic exercises have been added.
 
 Commit-3
 The interaction of js with html is further explored with The Document Object Model (DOM).It is a programming interface for HTML and XML documents. It represents the page so that programs can change the document structure, style, and content.The DOM is an object-oriented representation of the web page, which can be modified with a scripting language such as JavaScript.The interaction of DOM with htl elements has been implied.Event listeners have also been applied along with document.qyerySelector() type of methods to target elements of HTML.A basic project of tictactoe has been developed.Though not in accordance with concrete logic.But,basic ilustration of how front end works with HTML,CSS & JS.
